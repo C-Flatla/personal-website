@@ -1,7 +1,10 @@
 <h1 align="center">
   My Personal Website
 </h1>
+
 This project is my own personal website. Here I will tinker around, learn some things, and try to explain a bit about myself.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ed93653-e304-4f0e-a473-db0a1e951d35/deploy-status)](https://app.netlify.com/sites/codyflatla/deploys)
 
 ## 🚀 Quick start
 
