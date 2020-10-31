@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "cody-flatla-personal-website",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "This project is my own personal website. Here I will tinker around, learn some things, and try to explain a bit about myself.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Cody Flatla <codyflatla@outlook.com>",
   "dependencies": {
     "gatsby": "^2.20.35",
     "gatsby-image": "^2.3.5",
